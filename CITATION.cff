@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Cabrera, Agila, Astudillo-Salinas, Minchala-Avila, Vazquez-Rodas, Torres
+    given-names: Edisson P., Jefferson S., Fabian, Ismael, Andres, Santiago P.
+    orcid: https://orcid.org/0000-0001-7644-0270
+title: "Data collection using unmanned aerial vehicles and a delay-tolerant network"
+version: 1.0
+date-released: 2021-12-13
